@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.editor.defaultBinaryEditor": "default",
+    "workbench.settings.editor": "json",
+    "[svg]": {
+        "editor.defaultFormatter": "jock.svg"
+    }
+}
